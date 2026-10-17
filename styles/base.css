@@ -44,7 +44,7 @@ a {
 .app-root {
   width: min(1120px, 92vw);
   margin: 0 auto;
-  padding: 24px 0 40px;
+  padding: 0px 0 40px;
 }
 
 .loading-card {
@@ -59,7 +59,7 @@ a {
 .app-root.splash-root {
   width: min(1120px, 92vw);
   margin: 0 auto;
-  padding: 24px 0 40px;
+  padding: 0px 0 40px;
   background: var(--c-input);
 }
 
