@@ -162,7 +162,7 @@
 
 .phone-status-bar {
   position: absolute;
-  top: var(--status-bar-top, 8px);
+  top: var(--status-bar-top, 0px);
   left: 0;
   right: 0;
   display: grid;
