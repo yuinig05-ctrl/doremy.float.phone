@@ -1068,7 +1068,7 @@
     --safe-area-top: env(safe-area-inset-top, 0px);
     --phone-titlebar-safe-top: env(safe-area-inset-top, 0px);
     --page-header-safe-top: env(safe-area-inset-top, 0px);
-    --home-grid-top-offset: calc(env(safe-area-inset-top, 0px) + 16px);
+    --home-grid-top-offset: 0px;
   }
 
   html[data-pwa-display-mode="standalone"] .phone-shell > .phone-status-bar,
