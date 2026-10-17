@@ -1168,7 +1168,7 @@
 }
 
 .page-header-safe-area {
-  height: var(--page-header-safe-top, 48px);
+  height: max(20px, var(--page-header-safe-top, 20px));
   flex-shrink: 0;
   pointer-events: none;
 }
